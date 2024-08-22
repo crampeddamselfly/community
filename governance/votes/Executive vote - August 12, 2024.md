@@ -1,4 +1,4 @@
----
+wiu---
 title: Template - [Executive Vote] WBTC Vault Debt Ceiling Reductions, Stability Scope Parameter Changes, Bug Bounty Payments, ClipperMomJob Update, July 2024 Aligned Delegate Compensation, 6S Capital Stability Fee Increase, Monetalis Clydesdale and Coinbase Custody DAO Resolutions, Spark Proxy Spell - August 12, 2024
 summary: Reduce Debt Ceiling for WBTC Vaults, reduce Native Vault Stability Fees and the Dai Savings Rate (DSR), pay bug bounty rewards, activate a new Clipper Mom keeper job, pay Aligned Delegate compensation for July 2024, increase the 6S Capital (RWA001-A) Stability Fee, approve a DAO Resolution pertaining to Monetalis Clydesdale and Coinbase Custody, trigger a Spark proxy spell. 
 
