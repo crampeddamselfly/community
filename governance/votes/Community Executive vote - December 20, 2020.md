@@ -20,7 +20,7 @@ As per this governance [poll](https://vote.makerdao.com/polling/QmfTU85J?network
 Note that due to the smaller initial debt ceiling of the USDC PSM, the debt ceilings on other stablecoins will not be lowered at this time.
 
 ## Summary
-
+wiu
 Therefore, if this Executive proposal passes the following will occur:
 * The PSM-USDC-A vault type will be added using USDC as collateral with the parameters listed above.
 * The global line parameter will increase by 3M due to the debt ceiling changes.
